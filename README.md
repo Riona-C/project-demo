@@ -1,5 +1,10 @@
 # project-demo
 
+### 组件
++ Toast - 公用toast组件
++ Scroller - 公用下拉分页组件
+
+
 ## Project setup
 ```
 npm install
