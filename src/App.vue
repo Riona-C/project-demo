@@ -1,19 +1,18 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <AdaptiveSquare msg="Welcome to Your Vue.js App" />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import AdaptiveSquare from './components/AdaptiveSquare.vue';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    AdaptiveSquare
   }
-}
+};
 </script>
 
 <style>

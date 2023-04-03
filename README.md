@@ -1,4 +1,8 @@
-# project-demo
+# project-demo UI demo小示例
+
+### 自适应正方形的实现方案
++ components/AdaptiveSquare.vue - 四种实现方案
+
 
 ## Project setup
 ```
@@ -22,3 +26,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
